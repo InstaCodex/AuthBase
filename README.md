@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## -Instalasi AuthBase
+## Instalasi AuthBase
 ``` bash
 $ git clone https://github.com/InstaCodex/AuthBase
 $ cd AuthBase
@@ -20,5 +20,5 @@ $ npm run dev
 $ php artisan serve
 
 ```
-## -Screenshots
+## Screenshots
 <img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/Laravel%20(3).png" alt="Profile Image" width="100%">
