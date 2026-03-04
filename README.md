@@ -18,7 +18,7 @@ $ php artisan migrate
 $ npm install
 $ npm run dev
 $ php artisan serve
-``
+
 ```
 ## Screenshots
 <img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/Laravel%20(3).png" alt="Profile Image" width="100%">
