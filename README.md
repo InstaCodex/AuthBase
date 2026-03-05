@@ -46,8 +46,6 @@ php artisan serve
 ```bash
 composer create-project instacodex/authbase
 cd authbase
-cp .env.example .env
-php artisan key:generate
 php artisan migrate
 npm install
 npm run dev
