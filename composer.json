@@ -1,10 +1,11 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/authbase",
+    "name": "instacodex/authbase",
     "type": "project",
     "description": "Laravel starter kit based on Laravel Breeze with sidebar navigation",
     "keywords": [
         "laravel",
+        "starter-kit",
         "framework"
     ],
     "license": "MIT",
